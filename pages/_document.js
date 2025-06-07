@@ -7,7 +7,7 @@ class MyDocument extends Document {
         <Head>
           <link
             rel="preload"
-            href="/fonts/Inter-Regular.woff2"
+            href="/fonts/valo_font.ttf"
             as="font"
             type="font/woff2"
             crossOrigin="anonymous"
